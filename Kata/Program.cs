@@ -19,6 +19,9 @@ namespace Kata
             {
                 Console.WriteLine($"There is {newDates.Count(month)} of month {month}");
             }
+
+            Class1.Hello();
+            Class2.Hello();
         }
     }
 }
