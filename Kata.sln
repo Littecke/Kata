@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata", "Kata\Kata.csproj", "{FD899AAD-A8DA-493C-B095-138FB0C04C9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD899AAD-A8DA-493C-B095-138FB0C04C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD899AAD-A8DA-493C-B095-138FB0C04C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD899AAD-A8DA-493C-B095-138FB0C04C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD899AAD-A8DA-493C-B095-138FB0C04C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C308B40-99B0-4D58-85D1-D896549F20C0}
+	EndGlobalSection
+EndGlobal
